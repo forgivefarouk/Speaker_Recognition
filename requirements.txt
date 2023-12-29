@@ -1,0 +1,17 @@
+numpy
+librosa
+tensorflow
+matplotlib
+scikit-learn
+pandas
+streamlit
+pydub
+sounddevice
+audiomentations
+xgboost
+noisereduce
+torch
+pyannote.audio
+onnxruntime
+speechbrain
+pedalboard
